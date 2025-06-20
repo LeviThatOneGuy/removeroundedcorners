@@ -1,1 +1,1 @@
-
+document.body.style.borderRadius = "0px";
