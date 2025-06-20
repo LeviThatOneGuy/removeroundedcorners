@@ -1,12 +1,14 @@
 {
   "manifest_version": 2,
-  "name": "Remove Rounded Corners",
+  "name": "Deround",
   "version": "1.0",
 
   "description": "An extension to remove all rounded corners from every website",
 
   "icons": {
-    "48": "icons/border-48.png"
+    "1000": "icons/1000.png",
+    "256": "icons/256.png",
+    "48": "icons/48.png"
   },
 
   "content_scripts": [
